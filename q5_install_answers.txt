@@ -1,0 +1,8 @@
+Installation command:
+	adb install ES_File_Explorer.apk
+
+List all installed package:
+	adb shell "pm list packages"
+
+Uninstall Apps via command line:
+	adb uninstall com.estrongs.android.pop

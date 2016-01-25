@@ -1,0 +1,171 @@
+USER     PID   PPID  VSIZE  RSS     WCHAN    PC         NAME
+root      1     0     528    348   ffffffff 00000000 S /init
+root      2     0     0      0     ffffffff 00000000 S kthreadd
+root      3     2     0      0     ffffffff 00000000 S ksoftirqd/0
+root      6     2     0      0     ffffffff 00000000 S migration/0
+root      7     2     0      0     ffffffff 00000000 S watchdog/0
+root      20    2     0      0     ffffffff 00000000 S khelper
+root      24    2     0      0     ffffffff 00000000 S netns
+root      28    2     0      0     ffffffff 00000000 S sync_system_wor
+root      440   2     0      0     ffffffff 00000000 S sync_supers
+root      442   2     0      0     ffffffff 00000000 S bdi-default
+root      444   2     0      0     ffffffff 00000000 S kblockd
+root      463   2     0      0     ffffffff 00000000 S khubd
+root      483   2     0      0     ffffffff 00000000 S irq/365-max7769
+root      505   2     0      0     ffffffff 00000000 S irq/359-max7768
+root      548   2     0      0     ffffffff 00000000 S cfg80211
+root      635   2     0      0     ffffffff 00000000 S kpegasusq
+root      666   2     0      0     ffffffff 00000000 S khungtaskd
+root      667   2     0      0     ffffffff 00000000 S kswapd0
+root      721   2     0      0     ffffffff 00000000 S fsnotify_mark
+root      739   2     0      0     ffffffff 00000000 S ecryptfs-kthrea
+root      744   2     0      0     ffffffff 00000000 S crypto
+root      757   2     0      0     ffffffff 00000000 S s3c-fb
+root      763   2     0      0     ffffffff 00000000 S s3c-fb-vsync
+root      786   2     0      0     ffffffff 00000000 S mali_dvfs
+root      852   2     0      0     ffffffff 00000000 S irq/382-wm8994
+root      863   2     0      0     ffffffff 00000000 S s3c64xx-spi.1
+root      904   2     0      0     ffffffff 00000000 S mtp_read_send
+root      910   2     0      0     ffffffff 00000000 S file-storage
+root      925   2     0      0     ffffffff 00000000 S irq/387-melfas-
+root      972   2     0      0     ffffffff 00000000 S s5p-jpeg
+root      984   2     0      0     ffffffff 00000000 S kfimg2dd
+root      989   2     0      0     ffffffff 00000000 S sii9234_msc_wq
+root      990   2     0      0     ffffffff 00000000 S sii9234_tmds_of
+root      991   2     0      0     ffffffff 00000000 S irq/405-sii9234
+root      1000  2     0      0     ffffffff 00000000 S irq/371-max1704
+root      1004  2     0      0     ffffffff 00000000 S irq/376-wpc-int
+root      1005  2     0      0     ffffffff 00000000 S irq/372-vbus-in
+root      1034  2     0      0     ffffffff 00000000 S irq/380-s3c-sdh
+root      1103  2     0      0     ffffffff 00000000 S binder
+root      1111  2     0      0     ffffffff 00000000 S kcompcached
+root      1115  2     0      0     ffffffff 00000000 S hap_work
+root      1119  2     0      0     ffffffff 00000000 S irq/352-lsm330d
+root      1124  2     0      0     ffffffff 00000000 S lsm330dlc_gyro_
+root      1131  2     0      0     ffffffff 00000000 S mmcqd/0
+root      1148  2     0      0     ffffffff 00000000 S irq/354-proximi
+root      1149  2     0      0     ffffffff 00000000 S cm36651_prox_wq
+root      1152  2     0      0     ffffffff 00000000 S cm36651_light_w
+root      1161  2     0      0     ffffffff 00000000 S Si47xx_wq
+root      1163  2     0      0     ffffffff 00000000 S mc_fastcall
+root      1180  2     0      0     ffffffff 00000000 S mmcqd/1
+root      1215  2     0      0     ffffffff 00000000 S krfcommd
+root      1219  2     0      0     ffffffff 00000000 S nr_run_avg
+root      1232  2     0      0     ffffffff 00000000 S s5p-tmu
+root      1235  2     0      0     ffffffff 00000000 S usb_tx_wq
+root      1237  2     0      0     ffffffff 00000000 S linkpmd
+root      1267  2     0      0     ffffffff 00000000 S irq/395-sec_tou
+root      1270  2     0      0     ffffffff 00000000 S fimc0_iqr_wq_na
+root      1272  2     0      0     ffffffff 00000000 S fimc1_iqr_wq_na
+root      1274  2     0      0     ffffffff 00000000 S fimc2_iqr_wq_na
+root      1276  2     0      0     ffffffff 00000000 S fimc3_iqr_wq_na
+root      1278  2     0      0     ffffffff 00000000 S hdcp work
+root      1291  2     0      0     ffffffff 00000000 S tvout resume wo
+root      1306  1     456    196   ffffffff 00000000 S /sbin/ueventd
+root      1908  2     0      0     ffffffff 00000000 S jbd2/mmcblk0p9-
+root      1909  2     0      0     ffffffff 00000000 S ext4-dio-unwrit
+root      1911  2     0      0     ffffffff 00000000 S jbd2/mmcblk0p3-
+root      1912  2     0      0     ffffffff 00000000 S ext4-dio-unwrit
+root      1914  2     0      0     ffffffff 00000000 S jbd2/mmcblk0p8-
+root      1915  2     0      0     ffffffff 00000000 S ext4-dio-unwrit
+root      1918  2     0      0     ffffffff 00000000 S jbd2/mmcblk0p12
+root      1919  2     0      0     ffffffff 00000000 S ext4-dio-unwrit
+root      1920  2     0      0     ffffffff 00000000 S flush-179:0
+system    1924  1     932    144   ffffffff 00000000 S /system/bin/servicemanager
+root      1925  1     28952  1652  ffffffff 00000000 S /system/bin/vold
+system    1928  1     5464   176   ffffffff 00000000 S /system/bin/mcDriverDaemon
+root      1931  1     10072  436   ffffffff 00000000 S /system/bin/netd
+root      1932  1     976    92    ffffffff 00000000 S /system/bin/debuggerd
+system    1933  1     5016   64    ffffffff 00000000 S /system/bin/ddexe
+system    1934  1     3220   376   ffffffff 00000000 S /system/bin/kiesexe
+system    1935  1     1444   236   ffffffff 00000000 S /system/bin/smdexe
+system    1936  1     1732   172   ffffffff 00000000 S /system/bin/dttexe
+system    1937  1     1724   180   ffffffff 00000000 S /system/bin/connfwexe
+system    1938  1     4132   172   ffffffff 00000000 S /system/bin/npsmobex
+system    1939  1     101552 1192  ffffffff 00000000 S /system/bin/surfaceflinger
+root      1940  1     500192 22648 ffffffff 00000000 S zygote
+drm       1941  1     22248  1652  ffffffff 00000000 S /system/bin/drmserver
+media     1942  1     74288  4272  ffffffff 00000000 S /system/bin/mediaserver
+install   1943  1     980    264   ffffffff 00000000 S /system/bin/installd
+keystore  1945  1     3300   408   ffffffff 00000000 S /system/bin/keystore
+root      1950  2     0      0     ffffffff 00000000 S mc_log
+radio     1953  1     13480  1092  ffffffff 00000000 S /system/bin/rild
+system    1957  1     852    128   ffffffff 00000000 S /system/bin/immvibed
+radio     1958  1     1184   360   ffffffff 00000000 S /sbin/cbd
+gps       1959  1     10192  760   ffffffff 00000000 S /system/bin/gpsd
+system    1961  1     8272   524   ffffffff 00000000 S /system/bin/bintvoutservice
+system    2350  1940  750908 57832 ffffffff 00000000 S system_server
+root      2597  2     0      0     ffffffff 00000000 S wl_event_handle
+root      2603  2     0      0     ffffffff 00000000 S dhd_watchdog_th
+root      2604  2     0      0     ffffffff 00000000 S dhd_dpc
+root      2605  2     0      0     ffffffff 00000000 S dhd_sysioc
+wifi      2636  1     3772   256   ffffffff 00000000 S /system/bin/wpa_supplicant
+u0_a99    2640  1940  542756 25848 ffffffff 00000000 S com.android.systemui
+radio     2756  1940  577340 25136 ffffffff 00000000 S com.android.phone
+nfc       2768  1940  515372 20264 ffffffff 00000000 S com.android.nfc
+u0_a10    2951  1940  509696 20556 ffffffff 00000000 S com.sec.android.provider.logsprovider
+u0_a10    2968  1940  527788 19536 ffffffff 00000000 S android.process.acore
+u0_a155   3229  1940  508504 21028 ffffffff 00000000 S com.sec.msc.nts.android.proxy
+u0_a117   3240  1940  508116 21084 ffffffff 00000000 S com.sec.android.sCloudRelayData
+u0_a56    3249  1940  509088 19684 ffffffff 00000000 S com.samsung.android.providers.context
+wifi      12708 1     3200   336   ffffffff 00000000 S /system/bin/p2p_supplicant
+dhcp      12753 1     972    104   ffffffff 00000000 S /system/bin/dhcpcd
+system    17696 1940  573216 24404 ffffffff 00000000 S com.android.settings
+shell     18316 1     4516   188   ffffffff 00000000 S /sbin/adbd
+nfc       19282 1940  511792 22324 ffffffff 00000000 S com.android.nfc:handover
+bluetooth 19306 1940  516652 25072 ffffffff 00000000 S com.android.bluetooth
+u0_a19    19383 1940  590200 36692 ffffffff 00000000 S com.google.process.gapps
+u0_a19    19405 1940  709056 38192 ffffffff 00000000 S com.google.android.gms
+u0_a19    19427 1940  584084 38848 ffffffff 00000000 S com.google.android.gms.persistent
+u0_a13    19576 1940  508336 21344 ffffffff 00000000 S com.sec.android.app.keyguard
+u0_a21    19624 1940  515556 20536 ffffffff 00000000 S com.sec.android.app.clockpackage
+u0_a19    19644 1940  524784 22504 ffffffff 00000000 S com.google.process.location
+u0_a71    19676 1940  516260 24144 ffffffff 00000000 S com.sec.spp.push
+u0_a6     19699 1940  512896 18728 ffffffff 00000000 S com.sec.android.nearby.mediaserver:server
+system    19728 1940  545684 19060 ffffffff 00000000 S com.sec.android.inputmethod
+u0_a1     19788 1940  557768 19980 ffffffff 00000000 S com.sec.android.app.launcher
+u0_a1     19944 1940  509572 20052 ffffffff 00000000 S com.sec.android.widgetapp.ap.hero.accuweather.widget:remote
+u0_a10    19984 1940  546312 18428 ffffffff 00000000 S com.android.contacts
+u0_a71    20186 1940  512908 19396 ffffffff 00000000 S com.sec.spp.push:RemoteDlcProcess
+smartcard 20298 1940  509568 18756 ffffffff 00000000 S org.simalliance.openmobileapi.service:remote
+system    20324 1940  510388 18720 ffffffff 00000000 S com.samsung.android.MtpApplication
+root      20578 2     0      0     ffffffff 00000000 S kworker/u:1
+u0_a1     20580 1940  509404 22132 ffffffff 00000000 S com.sec.android.widgetapp.favoriteswidget
+root      20759 2     0      0     ffffffff 00000000 S kworker/0:3
+root      20802 2     0      0     ffffffff 00000000 S kworker/0:0
+root      20805 2     0      0     ffffffff 00000000 S kworker/u:2
+root      20810 2     0      0     ffffffff 00000000 S kworker/0:2
+u0_a139   20828 1940  532864 24452 ffffffff 00000000 S com.google.android.talk
+u0_a81    20850 1940  513088 20024 ffffffff 00000000 S com.samsung.groupcast
+u0_a89    20863 1940  516152 21432 ffffffff 00000000 S com.sec.android.app.videoplayer
+u0_a124   20876 1940  508108 22312 ffffffff 00000000 S com.sec.android.widgetapp.alarmclock
+u0_a0     20889 1940  509412 20952 ffffffff 00000000 S com.sec.android.daemonapp.ap.accuweather
+shell     20901 18316 856    352   c007364c 401bb018 S /system/bin/sh
+u0_a151   20907 1940  508144 21064 ffffffff 00000000 S com.sec.android.pagebuddynotisvc
+u0_a154   20920 1940  521744 24944 ffffffff 00000000 S com.vlingo.midas
+radio     20935 1940  530156 36620 ffffffff 00000000 S com.samsung.SMT
+u0_a138   20955 1940  510572 23116 ffffffff 00000000 S com.sec.esdk.elm
+system    20972 1940  515164 26816 ffffffff 00000000 S com.wssyncmldm
+u0_a103   20990 1940  510932 24412 ffffffff 00000000 S com.sec.android.app.voicerecorder
+u0_a30    21005 1940  525448 27964 ffffffff 00000000 S android.process.media
+root      21017 2     0      0     ffffffff 00000000 S kworker/0:1
+u0_a129   21029 1940  510004 26952 ffffffff 00000000 S com.sec.android.allshare.service.mediashare
+u0_a85    21043 1940  548664 44952 ffffffff 00000000 S com.google.android.music:main
+u0_a82    21082 1940  512336 27592 ffffffff 00000000 S com.sec.phone
+system    21096 1940  509500 32784 ffffffff 00000000 S com.sec.factory
+root      21108 2     0      0     ffffffff 00000000 S flush-179:16
+shell     21117 20901 1192   464   00000000 401c327c R ps
+
+
+What’s a UID and GID? 
+	UID: Unique Identifier for Users of the application that owns the process
+	GID: Unique Identifier for Group of Users of the the application that owns the process
+	PID: Unique Process Identifier for specific process
+	PPID: The PID of the parent process
+
+What are the differences between the UID and GID of system owned processes and user applications?
+	Each app has a unique UID and GID. 
+	They have different permissions.
+	Limited permissions are given to installed apps within an assigned directory.
+	GID 0 is root.
+	GID in 10000 series are installed applications.

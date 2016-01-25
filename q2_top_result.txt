@@ -1,0 +1,19 @@
+User 0%, System 3%, IOW 0%, IRQ 0%
+User 6 + Nice 0 + Sys 36 + Idle 882 + IOW 0 + IRQ 0 + SIRQ 0 = 924
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+ 1111  3   2% S     1      0K      0K     root     kcompcached
+21611  0   0% R     1   1252K    556K     shell    top
+ 1939  3   0% S    20  84588K   2116K  fg system   /system/bin/surfaceflinger
+ 2350  0   0% S   134 736700K  76312K  fg system   system_server
+21017  0   0% S     1      0K      0K     root     kworker/0:1
+19383  0   0% S    31 590200K  45128K  bg u0_a19   com.google.process.gapps
+ 2640  0   0% S    22 542756K  28904K  fg u0_a99   com.android.systemui
+20920  0   0% S    11 521744K  23432K  bg u0_a154  com.vlingo.midas
+  440  0   0% S     1      0K      0K     root     sync_supers
+  442  0   0% S     1      0K      0K     root     bdi-default
+  444  3   0% S     1      0K      0K     root     kblockd
+  463  0   0% S     1      0K      0K     root     khubd
+  483  1   0% S     1      0K      0K     root     irq/365-max7769
+  505  0   0% S     1      0K      0K     root     irq/359-max7768
+  548  2   0% S     1      0K      0K     root     cfg80211

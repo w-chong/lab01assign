@@ -1,0 +1,17 @@
+
+User 4%, System 4%, IOW 0%, IRQ 0%
+User 57 + Nice 0 + Sys 53 + Idle 1131 + IOW 0 + IRQ 0 + SIRQ 1 = 1242
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+21762  3   3% S    43 642020K  66088K  fg u0_a85   com.google.android.music:ui
+ 1942  3   1% S    20  88304K   6712K  fg media    /system/bin/mediaserver
+ 1939  3   1% S    20  95540K   2168K  fg system   /system/bin/surfaceflinger
+21994  1   1% R     1   1252K    556K     shell    top
+ 1111  1   0% S     1      0K      0K     root     kcompcached
+21043  1   0% S    37 599200K  49352K  fg u0_a85   com.google.android.music:main
+20810  0   0% S     1      0K      0K     root     kworker/0:2
+ 2350  3   0% S   134 742892K  77408K  fg system   system_server
+20805  1   0% S     1      0K      0K     root     kworker/u:2
+21126  0   0% S     1      0K      0K     root     kworker/u:0
+
+The top 10 processes are shown in the top results above.
